@@ -1,0 +1,50 @@
+body 
+{
+	background:url("img1.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 200px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	opacity: 0.9;
+	overflow: scroll;
+}
+
+#bg1
+{
+	background: url("cream_dust.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 30px;
+
+}
+
+
+h1 
+{
+    text-align: center;
+    font-family: 'Arvo',Georgia;
+    font-size: 400%;
+    padding: 32px;
+    text-shadow: 3px 3px 3px #ccc;
+}
+
+h2
+{
+	text-align: center;
+	font-size: 250%;
+	font-family: 'Arvo',Helvetica;
+	text-shadow: 1px 1px 1px #000000;
+
+}
+
+p
+{
+	text-align: center;
+	font-family: 'PT Sans',Helvetica;
+	font-size: 150%;
+	text-shadow: 1px 1px 1px #ccc;
+
+
+}
